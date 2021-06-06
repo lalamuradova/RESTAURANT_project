@@ -1,0 +1,19 @@
+Was selected input as client. 
+Client looked at the menu. 
+Was selected input as client. 
+Client looked at the menu. 
+Client looked at the menu. 
+Client searched meal. 
+Was selected input as client. 
+Was selected input as client. 
+Was selected input as client. 
+Was selected input as client. 
+Was selected input as client. 
+Was selected input as client. 
+Was selected input as client. 
+Was selected input as client. 
+Order completed. 
+Was selected input as client. 
+Client choosed table. 
+Order completed. 
+Was selected input as admin. 
